@@ -1,0 +1,62 @@
+body
+{
+	background-image:url(../image/spices.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 700px;
+}
+.simple-form
+{
+	text-align:center;
+}
+
+#registration
+{
+	width:30%;
+	background-color:#072F5F;
+	opacity:0.6;
+	padding:70px 30px;
+	margin-left:750px;
+	margin-top:50px;
+}
+
+#button
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+}
+
+#ph
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+}
+
+#rd
+{
+	margin-right:50px;
+	margin-left:30px;
+	font-size:250px;
+	
+
+}
+
+#but
+{
+	color: white;
+    font-size: larger;
+    margin-left: -30px;
+    margin-right: 40px;
+
+#btn
+{
+    width: 250px;
+    padding: 10px;
+    border-radius:5px;
+	outline:0px;
+	
+    border: 2px solid #01010c;
+    color: aliceblue;
+
+}
